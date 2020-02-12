@@ -1,0 +1,23 @@
+{
+  "name": "04-por-hacer",
+  "version": "1.0.0",
+  "description": "Aplicación para crear y mantener una lista de asuntos pendientes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walymz/lista-tareas.git"
+  },
+  "author": "Waleska Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walymz/lista-tareas/issues"
+  },
+  "homepage": "https://github.com/walymz/lista-tareas#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
